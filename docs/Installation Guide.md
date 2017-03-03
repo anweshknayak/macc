@@ -170,7 +170,7 @@ Or install one by one
     cd ..
     cd macc (cloned directory)
   
-  For autoenv to be effective you have to do this.
+  For autoenv to be effective.
   
 ## Setup PostgreSQL
 
