@@ -82,7 +82,7 @@ When you want to start contributing, you should [follow the instructions](https:
 
 Set your cloned fork to track upstream changes (changes to the main repository), then fetch and merge from the upstream branch:
 
-    `$ git remote add --track upstream https://github.com/systers/macc.git`
+    `$ git remote add upstream https://github.com/systers/macc.git`
     `$ git fetch upstream develop`
     `$ git merge upstream/develop`
 
